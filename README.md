@@ -31,3 +31,7 @@ https://data.london.gov.uk/dataset/directory-of-london-businesses
 #D4E1F6
 
 <a href="https://www.draw.io/?mode=github#Hnpalomin%2Fmadeinlondon%2Fmaster%2Fcolor%20palette.png">Edit</a>
+
+![mapman](
+
+<a href="https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=map_man.png#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fnpalomin%2Fmadeinlondon%2Fmaster%2Fmap_man.png">Edit</a>
