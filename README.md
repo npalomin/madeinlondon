@@ -36,27 +36,21 @@ https://data.london.gov.uk/dataset/directory-of-london-businesses
 
 directory-of-london-businesses N = 1,130,474 entries
 
-1                                   Agriculture, Forestry and Fishing   4358
-2                                                        Construction   1566
-3                                  Finance, Insurance and Real Estate 139254
-4                                                       Manufacturing  22320
-5                                                              Mining   9410
-6                                                     Nonclassifiable  79513
-7                                                            not used   2499
-8                                               Public Administration  90279
-9                                                        Retail Trade  86037
-10                                                           Services 459815
-11 Transportation, Communications, Electric, Gas and Sanitary service 195103
-12                                                    Wholesale Trade   2662
-13                                                               <NA>  37658
-  
-  
-| 1                              |     Agriculture  Forestry and Fishing |  4358      |          
-| 2    |                                                    Construction  | 1566 |                                           | 3     |                            Finance   Insurance and Real Estate | 139254 |                                        
-| 4      |                                                 Manufacturing | 22320 |                                            | 5       |                                                       Mining |  9410 |                                            | 6        |                                             Nonclassifiable | 79513 |                                            | 7         |                                                   not used |  2499 |                                            | 8          |                                     Public Administration | 90279 |                                            | 9           |                                             Retail Trade | 86037 |                                            | 10           |                                                Services | 459815 |                                         
-| 11 Transportation Communications Electric Gas and Sanitary service | 195103 |
-| 12                                                    Wholesale Trade  | 2662 |                                           
-| 13                                                               <NA> | 37658 |                                            
+|divname                                                            |   freq|
+|:------------------------------------------------------------------|------:|
+|Agriculture, Forestry and Fishing                                  |   4358|
+|Construction                                                       |   1566|
+|Finance, Insurance and Real Estate                                 | 139254|
+|Manufacturing                                                      |  22320|
+|Mining                                                             |   9410|
+|Nonclassifiable                                                    |  79513|
+|not used                                                           |   2499|
+|Public Administration                                              |  90279|
+|Retail Trade                                                       |  86037|
+|Services                                                           | 459815|
+|Transportation, Communications, Electric, Gas and Sanitary service | 195103|
+|Wholesale Trade                                                    |   2662|
+|NA                                                                 |  37658|                                    
 
 Manufacturing  N = 22320
 
