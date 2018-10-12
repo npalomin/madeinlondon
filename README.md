@@ -19,7 +19,9 @@ https://data.london.gov.uk/dataset/directory-of-london-businesses
 ### Color palette:
 
 !img(color palette.png)
-![palette](color palette.png)
+![palette](https://github.com/npalomin/madeinlondon/blob/master/color%20palette.png)
+
+
 
 #E72263
 #54225B
