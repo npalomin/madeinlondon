@@ -49,6 +49,14 @@ directory-of-london-businesses N = 1,130,474 entries
 11 Transportation, Communications, Electric, Gas and Sanitary service 195103
 12                                                    Wholesale Trade   2662
 13                                                               <NA>  37658
+  
+  
+| 1                              |     Agriculture  Forestry and Fishing |  4358      |          
+| 2    |                                                    Construction  | 1566 |                                           | 3     |                            Finance   Insurance and Real Estate | 139254 |                                        
+| 4      |                                                 Manufacturing | 22320 |                                            | 5       |                                                       Mining |  9410 |                                            | 6        |                                             Nonclassifiable | 79513 |                                            | 7         |                                                   not used |  2499 |                                            | 8          |                                     Public Administration | 90279 |                                            | 9           |                                             Retail Trade | 86037 |                                            | 10           |                                                Services | 459815 |                                         
+| 11 Transportation Communications Electric Gas and Sanitary service | 195103 |
+| 12                                                    Wholesale Trade  | 2662 |                                           
+| 13                                                               <NA> | 37658 |                                            
 
 Manufacturing  N = 22320
 
