@@ -29,3 +29,11 @@ https://data.london.gov.uk/dataset/directory-of-london-businesses
 #88F0F1
 #7CCD99
 #D4E1F6
+
+![palette](https://github.com/npalomin/madeinlondon/blob/master/color%20palette.svg)
+
+
+https://github.com/npalomin/madeinlondon/blob/master/color%20palette.html
+
+<a href="https://www.draw.io/#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-github%2Fdiagram.png" target="_blank">Edit As New</a>
+<a href="https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=color%20palette#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1osoT96DAfYWDavgwTy4qpRs7Q4DKNNWi%26export%3Ddownload">edit</a>
