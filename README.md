@@ -29,7 +29,7 @@ https://www.dropbox.com/sh/6d4bygi28dkfcoq/AACWckRovQ5EzynjkAG8VbApa?dl=0
 
 <a href="https://www.draw.io/?mode=github#Hnpalomin%2Fmadeinlondon%2Fmaster%2Fcolor%20palette.png">Edit</a>
 
-### London businesses:
+### London businesses directory(data.london.gov.uk):
 
 directory-of-london-businesses N = 1,130,474 entries
 
@@ -54,3 +54,8 @@ Manufacturing  N = 22320
 ![mapman](https://github.com/npalomin/madeinlondon/blob/master/map_man.png)
 
 <a href="https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=map_man.png#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fnpalomin%2Fmadeinlondon%2Fmaster%2Fmap_man.png">Edit</a>
+
+### Industrial Employment Land in London by Designation (AECOM):
+
+![ind_empl](https://github.com/npalomin/madeinlondon/blob/master/ind_empl_aecom.png)
+
