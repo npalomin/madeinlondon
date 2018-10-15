@@ -2,8 +2,8 @@
 ---
 ## Planning new urban manufacturing
 
-Does manufacturing belong in mixed-use urban developments? Using
-space syntax to rethink planning assumptions of the ‘good city’
+*Does manufacturing belong in mixed-use urban developments? Using
+space syntax to rethink planning assumptions of the ‘good city'.*
 
 ### Data download links
 https://data.london.gov.uk/dataset/strategic-industrial-location-points-london-plan-consultation-2009
