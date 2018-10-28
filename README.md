@@ -6,15 +6,15 @@
 space syntax to rethink planning assumptions of the ‘good city'.*
 
 ### Data download links
-https://data.london.gov.uk/dataset/strategic-industrial-location-points-london-plan-consultation-2009
-https://data.london.gov.uk/dataset/strategic-industrial-location-points-london-plan-consolidated-alterations-2004
-https://data.london.gov.uk/dataset/town-centre-locations-2015
-https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london
-https://data.cdrc.ac.uk/dataset/tlrn
-https://data.london.gov.uk/dataset/directory-of-london-businesses
+https://data.london.gov.uk/dataset/strategic-industrial-location-points-london-plan-consultation-2009 . 
+https://data.london.gov.uk/dataset/strategic-industrial-location-points-london-plan-consolidated-alterations-2004 . 
+https://data.london.gov.uk/dataset/town-centre-locations-2015 . 
+https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london . 
+https://data.cdrc.ac.uk/dataset/tlrn . 
+https://data.london.gov.uk/dataset/directory-of-london-businesses . 
 
 ### Research links
-https://www.dropbox.com/sh/6d4bygi28dkfcoq/AACWckRovQ5EzynjkAG8VbApa?dl=0
+https://www.dropbox.com/sh/6d4bygi28dkfcoq/AACWckRovQ5EzynjkAG8VbApa?dl=0 . 
 
 
 ### Color palette:
