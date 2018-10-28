@@ -14,7 +14,7 @@ Dataset presentation URL: https://www.ordnancesurvey.co.uk/business-and-governme
 Classification Scheme URL: https://www.ordnancesurvey.co.uk/docs/product-schemas/points-of-interest-classification-scheme.pdf  
 Reference: http://spatialreference.org/  
 
-(@) Read and prepare dataset
+## (@) Read and prepare dataset
 
 ```{r, message=FALSE, warning=FALSE}
 library(readr)
@@ -37,7 +37,7 @@ knitr::include_graphics("scheme_sample.png")
 ```
 
 
-(@) Quick map dataset
+## (@) Quick map dataset
 ```{r}
 class(PES)
 ```
@@ -58,7 +58,7 @@ tmap_mode("plot")
 qtm(PESsp) # N=2406 obs.
 ```
 
-(@) Interactive map
+## (@) Interactive map
 ```{r, message=FALSE, warning=FALSE}
 # Transfrom SP object datum from datum=OSGB36 to WGS84
 PESspWGS84 <-spTransform(PESsp, CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"))
@@ -67,7 +67,7 @@ tmap_mode("view")
 qtm(PESsp)
 ```
 
-(@) Map by Group Classification
+## (@) Map by Group Classification
 ```{r, message=FALSE, warning=FALSE}
 library(dplyr)
 # convert the SP object into an SF object...
