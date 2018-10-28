@@ -13,6 +13,8 @@ https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london .
 https://data.cdrc.ac.uk/dataset/tlrn . 
 https://data.london.gov.uk/dataset/directory-of-london-businesses . 
 
+<a href="https://npalomin.github.io/madeinlondon/poi.html">Q&D Points of Interest</a>
+
 ### Research links
 https://www.dropbox.com/sh/6d4bygi28dkfcoq/AACWckRovQ5EzynjkAG8VbApa?dl=0 . 
 
