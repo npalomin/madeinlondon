@@ -1,20 +1,38 @@
 ---
 title: "Points of Interest (POI)"
-output: html_document
-number_sections: true
+author: "NP"
+date: "28/10/2018"
+output: 
+  html_document:
+    number_sections: true
+    theme: readable
 ---
+<style>
+  h1, h2, h3, h4, h5, h6{
+    color: #F7D600;
+    font-family: "arial narrow", helvetica;
+  }
+  h1, h2{
+    font-size: 150%
+  }
+  h2{
+    font-variant: small-caps
+  }
+</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Q&D analysis of POI data from Ordnance Survey
+# Q&D analysis of POI data from Ordnance Survey
 
-Dataset presentation URL: https://www.ordnancesurvey.co.uk/business-and-government/products/points-of-interest.html  
-Classification Scheme URL: https://www.ordnancesurvey.co.uk/docs/product-schemas/points-of-interest-classification-scheme.pdf  
+POI dataset presentation: https://www.ordnancesurvey.co.uk/business-and-government/products/points-of-interest.html  
+Classification Scheme: https://www.ordnancesurvey.co.uk/docs/product-schemas/points-of-interest-classification-scheme.pdf  
 Reference: http://spatialreference.org/  
 
-## (@) Read and prepare dataset
+## read and prepare dataset
+
+The dataset contains a variable with the classification of each point in a code with three levels, group, category and class. The code is built like this: *G(group),CC(category),CCCC(class)*
 
 ```{r, message=FALSE, warning=FALSE}
 library(readr)
@@ -37,7 +55,8 @@ knitr::include_graphics("scheme_sample.png")
 ```
 
 
-## (@) Quick map dataset
+## quick map the data
+
 ```{r}
 class(PES)
 ```
@@ -58,7 +77,8 @@ tmap_mode("plot")
 qtm(PESsp) # N=2406 obs.
 ```
 
-## (@) Interactive map
+## interactive map
+
 ```{r, message=FALSE, warning=FALSE}
 # Transfrom SP object datum from datum=OSGB36 to WGS84
 PESspWGS84 <-spTransform(PESsp, CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"))
@@ -67,7 +87,8 @@ tmap_mode("view")
 qtm(PESsp)
 ```
 
-## (@) Map by Group Classification
+## map by group classification
+
 ```{r, message=FALSE, warning=FALSE}
 library(dplyr)
 # convert the SP object into an SF object...
