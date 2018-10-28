@@ -24,7 +24,7 @@ bil <- businesses_in_london
 head(bil)
 class(bil)
 
-# Create variable 'division' from variable 'SICCode.SicText_1' substract chr 1, 4 (first 4 characters)
+# Create variable 'division' from variable 'SICCode.SicText_1' substract chr 1 to 4 (first 4 characters)
 bil <- mutate(bil, division = substr(SICCode.SicText_1, 1, 4))
 
 # Change chr to num for 'division' variable

@@ -9,7 +9,7 @@ output:
 ---
 <style>
   h1, h2, h3, h4, h5, h6{
-    color: #F7D600;
+    color: #668e81;
     font-family: "arial narrow", helvetica;
   }
   h1, h2{
