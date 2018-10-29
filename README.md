@@ -7,9 +7,9 @@ space syntax to rethink planning assumptions of the ‘good city'.*
 
 ## Research log
 
-|Description   |URL   |
-|---|---|
-| Analysis of Point of Interest Data |https://npalomin.github.io/madeinlondon/poi.html |
+|Description   |URL   |Date |
+|---|---|---|
+| Analysis of Point of Interest(POI) Data |https://npalomin.github.io/madeinlondon/poi.html |15-10-18 |
 | .  |         |
 
 
