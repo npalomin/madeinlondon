@@ -9,7 +9,7 @@ space syntax to rethink planning assumptions of the ‘good city'.*
 
 |Description   |URL   |Date |
 |---|---|---|
-|QGIS London businesses directory |  |15-10-18 |
+|QGIS London businesses directory |https://github.com/npalomin/madeinlondon/blob/master/AUX.md |15-10-18 |
 |R London businesses directory |  |15-10-18 |
 |Analysis of Point of Interest(POI) data |https://npalomin.github.io/madeinlondon/poi.html |28-10-18 |
 |Analysis of Nomis data |         |29-10-18 |
