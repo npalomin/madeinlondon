@@ -7,7 +7,7 @@ space syntax to rethink planning assumptions of the ‘good city'.*
 
 ## Research log
 
-|`Date`|Description|URL ctrl + click|
+|`Date`|Description|URL `ctrl + click`|
 |:---|---|---|
 |`151018`|QGIS London businesses directory|https://github.com/npalomin/madeinlondon/blob/master/AUX.md |
 |`151018`|R London businesses directory|https://npalomin.github.io/madeinlondon/fame.html  |
