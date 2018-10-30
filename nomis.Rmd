@@ -1,5 +1,5 @@
 ---
-title: "nomis data"
+title: "Nomis data"
 author: "np"
 date: "29/10/2018"
 output: 
@@ -41,19 +41,23 @@ http://geoportal.statistics.gov.uk/datasets/lower-layer-super-output-area-2011-t
 
 *"An employer survey of the number of jobs held by employees broken down by full/part-time and detailed industry (5 digit SIC2007). The survey records a job at the location of an employees workplace. Available from country down to lower level super output area and Scottish datazone."*  
 
-Lower Layer Super Output Area (2011) to Ward (2017) Lookup in England and Wales
+Lower Layer Super Output Area (2011) to Ward (2017) Lookup in England and Wales.  
+LSOA 2011 provide higher spatial resolution than ward.  
 
 ```{r, out.width = "1000px", echo=FALSE}
 knitr::include_graphics("lsoa_ward.png")
 ```
 
-LSOA 2011 provide higher spatial resolution than ward
+Summary of data query from Nomis website.  
+
+GLA has 4835 LSOA (2011)  
 
 ```{r, out.width = "1000px", echo=FALSE}
 knitr::include_graphics("summ_nomis.png")
 ```
-GLA = 4835 LSOA (2011)
 
+
+Map built by Nomis website (data output)
 ```{r, out.width = "1000px", echo=FALSE}
 knitr::include_graphics("map_nomis.png")
 ```
@@ -62,9 +66,9 @@ knitr::include_graphics("map_nomis.png")
 
 The boundaries of the LSOA areas are:  
 
-**too irregular that can even cut a street segment in many parts**  
+**- too irregular that can even cut a street segment in many parts**  
 
-**overlap with streets segments so generate the problem of defining where to assign the centrality measures**
+**- overlap with streets segments so generate the problem of defining where to assign the centrality measures (MAUP)**
 
 These are the Live-links for data downloads.  
 
